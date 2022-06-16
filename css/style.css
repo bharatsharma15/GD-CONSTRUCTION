@@ -965,6 +965,9 @@ section {
     html {
         font-size: 50%;
     }
+    .header .logo {
+        font-size: 2rem;
+    }
     .about .row .content h3 {
         font-size: 2.5rem;
     }
